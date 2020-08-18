@@ -1,2 +1,3 @@
-# brickbreakgame2d
-coding game 2d break brick with html-canvas, css and javascript 
+# Coding game 2D break brick with Html-canvas, CSS and Javascript. 
+
+Open index.html and run game on your browser. 
