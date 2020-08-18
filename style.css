@@ -1,0 +1,20 @@
+#gameScreen {
+    border: 10px solid gray;
+}
+body{
+    background: url(assets/images/bggame.png) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    justify-content: top center ;
+}
+img {
+    display: none;
+}
+
+.screen{
+   margin-left: 550px;
+   margin-top:200px ;
+   background-color: white; 
+}
